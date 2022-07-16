@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello Azure TestWebapps No1!";
+echo $_SERVER["REMOTE_ADDR"] ;
